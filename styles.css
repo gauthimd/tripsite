@@ -1,0 +1,11 @@
+body		{padding-bottom: 5px}
+h1, h2		{background: blue; font-family: Arial, sans-serif; 
+		 text-align: center}
+p		{font-size: 1.5em; text-align: center}
+table, th, td	{border: 3px solid black; background: red;
+		 margin: 0 auto; empty-cells: show; text-align: center}
+img		{width: 270px; height: 400px}
+.page		{border: 14px solid #BF5700; background: gray}
+#images div	{display:inline-block; width: 1000px; margin: 0 auto 0 auto;
+		 text-align: center}
+#right img	{float: right}
