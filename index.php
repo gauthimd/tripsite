@@ -1,44 +1,25 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Raspberry Pi Weather Page</title>
+    <title>Mike's Test Page</title>
     <link rel="stylesheet" type="text/css" href="styles.css" />
     <meta charset="UTF-8">
   </head>
   <div class="page">
   <body>
-    <h1>Weather from Lake Tyler East</h1>
-    <p>The following weather data was obtained using a Raspberry Pi 3 with 
-         sensors and components from SwitchDocLabs</p><br>
-    <table>
-      <tr>
-	<th>Date/Time</th>
-	<th>Temperature</th>
-	<th>Pressure</th>
-	<th>AvgWindSpeed</th>
-	<th>Humidity</th>
-	<th>WindDirection</th>
-	<th>Rainfall</th>
-	<th>WindChill</th>
-	<th>HeatIndex</th>
-      </tr>
-      <tr>
-	<td>0</td>
-	<td>0</td>
-	<td>0</td>
-	<td>0</td>
-	<td>0</td>
-	<td>0</td>
-	<td>0</td>
-	<td>0</td>
-	<td>0</td>
-      </tr>
-    </table><br>
-    <h2>Station Images</h2>
+    <h1>Mike's Test Web Page</h1>
+    <p>On this site I'll be testing various web methodologies and other
+	smart sounding shit</p><br>
+    <h2>Images</h2>
     <div class="images">
-    <img id="left" src="images/PiStation.jpg">
-    <img id="center" src="images/PiStation2.jpg">
-    <img id="right" src="images/PiStation3.jpg">
+    <img src="images/chicken.jpg" width="302" height="403">
+    <p>This is a chicken.<br>
+       Her name is Crooked Beak.<br>
+    </p>
+    <img src="images/Rambo.jpg" width="302" height="403">
+    <p>This is Rambo.<br>
+       Don't fuck with him.
+    </p>
     </div>
   </body>	
   </div>

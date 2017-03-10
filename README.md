@@ -1,2 +1,2 @@
-### Raspberry Pi 3 WxPage
-This folder contains all files pertaining to the Wx website for the weather pi project
+### Test Website
+This is a folder I use to test web stuff
