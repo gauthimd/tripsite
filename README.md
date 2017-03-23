@@ -1,2 +1,2 @@
-####Latin America Trip Website
+#### Latin America Trip Website
 Repo for mikeslatinamericatrip.com
