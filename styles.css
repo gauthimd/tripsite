@@ -1,6 +1,9 @@
 body		{padding-bottom: 5px} 
 h1		{background: red; font-family: Arial, sans-serif; 
 		 text-align: center}
-h2		{background: green}
 p		{font-size: 1.5em}
 .page		{border: 14px solid #BF5700; background: gray}
+.odd		{background: green}
+.even		{background: red}
+.videos		{text-align: center}
+.header		{text-align: center}
